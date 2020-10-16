@@ -16,7 +16,7 @@ $ cd yarn-website
 You should ensure you have Yarn and [Bundler](http://bundler.io/) installed:
 
 ```sh
-$ gem install bundler
+$ gem install bundlerhdeyeyyey
 ```
 
 And then:
